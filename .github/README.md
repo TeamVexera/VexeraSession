@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousX1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+  <a href="https://github.com/TeamVexera"><img alt="Website" src="https://img.shields.io/badge/TeamVexera-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/TeamVexera/VexeraSession?style=social)](https://github.com/TeamVexera/VexeraSession/stargazers)
+  [![Forks](https://img.shields.io/github/forks/TeamVexera/VexeraSession?style=social)](https://github.com/TeamVexera/VexeraSession/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -31,7 +31,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringSessionGenerator_Bot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -43,10 +43,3 @@ Atleast Give A Star and Fork The Repo 🖤
 ☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
 ☞ `BOT_TOKEN` - Get your BOT_TOKEN from [@BotFather](https://t.me/BotFather)<br>
 ☞ `MONGO_DB_URI` - Get MONGO_DB_URI from [MongoDB.com](https://cloud.mongodb.com)<br>
-
-
-## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousX1025)
-- » [Shivang](https://github.com/ShivangKakkar)
-- » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
